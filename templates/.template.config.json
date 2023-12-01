@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "issues": [
+      {
+        "key": "WM-4447",
+        "timeSpentHours": 0.5,
+        "comment": "Status meeting"
+      },
+      {
+        "key": "WM-4446",
+        "timeSpentHours": 7.5,
+        "comment": "Backend development"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "issues": [
+      {
+        "key": "WM-4446",
+        "timeSpentHours": 8,
+        "comment": "Backend development"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "issues": [
+      {
+        "key": "WM-4447",
+        "timeSpentHours": 0.5,
+        "comment": "Status meeting"
+      },
+      {
+        "key": "WM-4446",
+        "timeSpentHours": 7.5,
+        "comment": "Backend development"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "issues": [
+      {
+        "key": "WM-4446",
+        "timeSpentHours": 8,
+        "comment": "Backend development"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "issues": [
+      {
+        "key": "WM-4447",
+        "timeSpentHours": 0.5,
+        "comment": "Status meeting"
+      },
+      {
+        "key": "WM-4446",
+        "timeSpentHours": 7.5,
+        "comment": "Backend development"
+      }
+    ]
+  }
+]
