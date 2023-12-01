@@ -1,8 +1,8 @@
-# Automatic JIRA workloger
+# Automatic JIRA worklogger
 
 This tool helps to automaticly push worklog to Jira's Tempo. All you need to do is to create predifend configuration for days in `.config.json` file (example provided in templates).
 
-## Setup
+## Usage and setup
 
 1. Add `.config.json`
 2. Add `.env` and fill it with personal access token from JIRA and Base URL.
