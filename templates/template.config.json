@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "This is a number from Weekday ENUM. 1 represents monday 2 - tuesday and so on...",
     "issues": [
       {
         "key": "ISSUE-1",

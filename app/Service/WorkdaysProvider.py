@@ -6,10 +6,10 @@ from app.Entity.Workday import Workday
 from app.Enum.Weekday import Weekday
 
 def getWorkdays() -> List[Workday]:
-    return parseJsonToWorkDays()
+    return parseJsonToWorkDaysFromConfigurationFile('.config.json')
 
-def parseJsonToWorkDays() -> List[Workday]:
-    with open('.config.json', 'r') as file:
+def parseJsonToWorkDaysFromConfigurationFile(filename: str) -> List[Workday]:
+    with open(filename, 'r') as file:
         data = json.load(file)
 
         result = []
