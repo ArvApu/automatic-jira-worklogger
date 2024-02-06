@@ -3,12 +3,12 @@
     "id": 1,
     "issues": [
       {
-        "key": "WM-4447",
+        "key": "ISSUE-1",
         "timeSpentHours": 0.5,
         "comment": "Status meeting"
       },
       {
-        "key": "WM-4446",
+        "key": "ISSUE-2",
         "timeSpentHours": 7.5,
         "comment": "Backend development"
       }
@@ -18,7 +18,7 @@
     "id": 2,
     "issues": [
       {
-        "key": "WM-4446",
+        "key": "ISSUE-2",
         "timeSpentHours": 8,
         "comment": "Backend development"
       }
@@ -28,12 +28,12 @@
     "id": 3,
     "issues": [
       {
-        "key": "WM-4447",
+        "key": "ISSUE-1",
         "timeSpentHours": 0.5,
         "comment": "Status meeting"
       },
       {
-        "key": "WM-4446",
+        "key": "ISSUE-2",
         "timeSpentHours": 7.5,
         "comment": "Backend development"
       }
@@ -43,7 +43,7 @@
     "id": 4,
     "issues": [
       {
-        "key": "WM-4446",
+        "key": "ISSUE-2",
         "timeSpentHours": 8,
         "comment": "Backend development"
       }
@@ -53,12 +53,12 @@
     "id": 5,
     "issues": [
       {
-        "key": "WM-4447",
+        "key": "ISSUE-1",
         "timeSpentHours": 0.5,
         "comment": "Status meeting"
       },
       {
-        "key": "WM-4446",
+        "key": "ISSUE-2",
         "timeSpentHours": 7.5,
         "comment": "Backend development"
       }
