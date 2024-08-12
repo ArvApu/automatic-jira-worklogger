@@ -25,3 +25,11 @@ __Note:__ Logs might not appear instantly you should wait about 10 minutes. Why 
 work logs are not in Jira but in Tempo and this program adds work logs using Jira (through issue), so I think
 they have to sync to display changes. You could probably ask: "Why not just push straight to tempo?",
 well I can't get access to Tempo API... So if anybody can access Tempo API using Atlassian API token, please fix this.
+
+
+## TODO:
+
+1. Check if work logs already exists for given day configurations, if they do exists just output warning and do nothing
+2. Take all meetings from calendar and put them automatically to configuration
+3. Load configurations and Credentials separately (optional)
+4. Use DI in project's codebase
